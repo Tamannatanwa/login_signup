@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "user_name": "tamanna",
+      "password": "Tamanna@12",
+      "profile": {
+        "description": "i am girl",
+        "D.O.B": "27-07-2004",
+        "Gender": "female",
+        "Hobbies": "reading book,solving problems"
+      }
+    }
+  ]
+}

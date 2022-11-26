@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "username": "tamanna",
+            "password": "Tamanna@12",
+            "profile": {
+                "Description": "i like cooking ,watching t.v.",
+                "D.O.B": "27-06-2004",
+                "Gender": "female",
+                "Hobbies": "reading ,writing"
+            }
+        },
+        {
+            "username": "Aniket",
+            "password": "Aniket@12",
+            "profile": {
+                "Description": "i like bike ridding,i like travelling",
+                "D.O.B": "29-05-2003",
+                "Gender": "male",
+                "Hobbies": "bike ridding,watching movie"
+            }
+        },
+        {
+            "username": "priya",
+            "password": "Priya@12",
+            "profile": {
+                "Description": "i like helping poor people's ",
+                "D.O.B": "21-08-2006",
+                "Gender": "female",
+                "Hobbies": "reading,writing,cookoing,drawing"
+            }
+        }
+    ]
+}
